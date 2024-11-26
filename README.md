@@ -1,4 +1,4 @@
-# Site: **Psicóloga Beatriz Passos**
+# Site: **Psicóloga Beatriz Souza Passos**
 
 Este é um projeto criado com WordPress para demonstrar minhas habilidades em design e desenvolvimento web.
 
