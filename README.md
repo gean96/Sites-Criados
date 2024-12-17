@@ -3,7 +3,7 @@
 Este é um projeto criado com WordPress para demonstrar minhas habilidades em design e desenvolvimento web.
 
 ## Link do Projeto
-[Visite o site aqui](https://www.psibeatrizpassos.com.br)
+[Visite o site aqui](https://www.beatrizsouza.com.br)
 
 ## Recursos do Site
 - Design responsivo e moderno.
